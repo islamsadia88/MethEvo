@@ -1,0 +1,6 @@
+Feature Extraction:
+This folder contains the files for extracting features. Config_file contains the data loading codes. Feature_extraction file contains the codes for extracting features.
+Prediction:
+It contains imbalance_treatment which is having the codes for balancing the extracted featured data. Classification_Model file contains the result generation codes for different classifiers including MethEvo.
+Balance_feature:
+It contains the balanced data file which is generated after applying imbalance_treatment.
