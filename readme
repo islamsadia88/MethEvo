@@ -3,8 +3,6 @@ This folder contains the files for extracting features. Config_file contains the
 Prediction:
 It contains imbalance_treatment which is having the codes for balancing the extracted featured data. Classification_Model file contains the result generation codes for different classifiers including MethEvo.
 Data:
-It contains the data file which is balanced after feature extraction.
-Balance_feature:
-It contains the balanced data file which is generated after applying imbalance_treatment.
+It contains the data file which is balanced using imbalance_treatment after feature extraction.
 Methodology and results graphs:
 it contains the working methdology diagrams and ROC curves of results.
